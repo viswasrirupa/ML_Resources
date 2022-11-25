@@ -1,3 +1,3 @@
-# bio_data_analysis
+# Machine Learning Resources
 
-this is a document for my own future reference. 
+This document is to maintain a repository of the machine learning resources I find online and are useful.
